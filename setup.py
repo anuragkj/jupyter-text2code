@@ -1,4 +1,4 @@
-import os1
+import os
 from glob import glob
 
 import setuptools
